@@ -1,0 +1,3 @@
+D:/RaspberryDATAandPROJECT/project/UNOgame/cmake-build-debug/CMakeFiles/UNOgame.dir
+D:/RaspberryDATAandPROJECT/project/UNOgame/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/RaspberryDATAandPROJECT/project/UNOgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
